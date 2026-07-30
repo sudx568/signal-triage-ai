@@ -1,0 +1,68 @@
+text,reason,confidence
+I was charged twice for my subscription.,Low confidence prediction,0.6458009481430054
+My refund has not arrived.,Low confidence prediction,0.7360342741012573
+Charged after cancellation.,Low confidence prediction,0.5799568295478821
+Cannot update payment method.,Low confidence prediction,0.6415817737579346
+Tax calculation seems wrong.,Low confidence prediction,0.4932457506656647
+Duplicate transaction on my card.,Classifier disagreement,0.8195115923881531
+Why was I billed today?,Classifier disagreement,0.5635195374488831
+Refund status please.,Low confidence prediction,0.7108956575393677
+Monthly charge looks incorrect.,Classifier disagreement,0.5874831676483154
+Invoice PDF won't download.,Low confidence prediction,0.5242456197738647
+Payment page keeps failing.,Low confidence prediction,0.7209974527359009
+Need GST invoice.,Low confidence prediction,0.5123072862625122
+Card declined incorrectly.,Classifier disagreement,0.4655061960220337
+Charged for premium by mistake.,Low confidence prediction,0.6224680542945862
+Billing history missing.,Low confidence prediction,0.6639785766601562
+Please reverse this payment.,Low confidence prediction,0.5752171277999878
+Login button does nothing.,Classifier disagreement,0.6822171211242676
+Search feature is broken.,Low confidence prediction,0.47425228357315063
+Notifications stopped working.,Classifier disagreement,0.3903030753135681
+Unable to upload files.,Classifier disagreement,0.8583613634109497
+Settings page is blank.,Classifier disagreement,0.6785190105438232
+App is very slow.,Classifier disagreement,0.6046723127365112
+Error 500 appears.,Low confidence prediction,0.5417314171791077
+Images won't load.,Classifier disagreement,0.4992097318172455
+Password reset fails.,Classifier disagreement,0.5437435507774353
+Profile page crashes.,Low confidence prediction,0.5823348760604858
+Export feature not working.,Low confidence prediction,0.6980745792388916
+Dark mode flickers.,Classifier disagreement,0.6823431253433228
+App logs me out randomly.,Classifier disagreement,0.5196518898010254
+Can't save changes.,Classifier disagreement,0.4159277081489563
+Sync keeps failing.,Classifier disagreement,0.4287341833114624
+Audio doesn't play.,Classifier disagreement,0.3927924931049347
+Camera feature crashes.,Low confidence prediction,0.5245494842529297
+Need two-factor authentication.,Classifier disagreement,0.40119171142578125
+Please add export to PDF.,Low confidence prediction,0.5913136601448059
+Add keyboard shortcuts.,Low confidence prediction,0.45924049615859985
+Offline mode would help.,Classifier disagreement,0.41635510325431824
+Please support voice input.,Classifier disagreement,0.2701934576034546
+Add custom themes.,Low confidence prediction,0.45857757329940796
+Allow bulk delete.,Classifier disagreement,0.25639820098876953
+Support Apple login.,Classifier disagreement,0.49316492676734924
+More notification controls.,Classifier disagreement,0.44400256872177124
+Please add AI summaries.,Classifier disagreement,0.23809382319450378
+Add scheduled reports.,Classifier disagreement,0.2823528051376343
+Click here to claim prize.,Low confidence prediction,0.6655283570289612
+Cheap loans available.,Classifier disagreement,0.27610260248184204
+Visit this suspicious link.,Classifier disagreement,0.38741135597229004
+Congratulations you won.,Classifier disagreement,0.428416907787323
+Hot deals today.,Classifier disagreement,0.4454328417778015
+Make $5000 daily.,Classifier disagreement,0.48264604806900024
+Get followers instantly.,Classifier disagreement,0.37261879444122314
+Lowest prices guaranteed.,Classifier disagreement,0.41954126954078674
+Lottery winner notification.,Low confidence prediction,0.46847015619277954
+Work from home easy cash.,Classifier disagreement,0.5237630009651184
+This issue is blocking my business.,Classifier disagreement,0.7784721851348877
+Critical outage affecting all users.,Low confidence prediction,0.6157196760177612
+System deleted my important data.,Classifier disagreement,0.41841578483581543
+Need immediate support.,Classifier disagreement,0.7023091316223145
+Customer service is ignoring me.,Classifier disagreement,0.48152536153793335
+Production system is down.,Low confidence prediction,0.6954699754714966
+Security issue needs urgent attention.,Low confidence prediction,0.7103269100189209
+Cannot access my account.,Classifier disagreement,0.6664871573448181
+Payment stuck for hours.,Low confidence prediction,0.6482703685760498
+Your latest update broke everything.,Classifier disagreement,0.3987295925617218
+Urgent: invoices disappeared.,Low confidence prediction,0.5289570093154907
+Service unavailable since morning.,Classifier disagreement,0.6268610954284668
+Immediate resolution required.,Classifier disagreement,0.8471251130104065

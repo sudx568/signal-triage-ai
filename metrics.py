@@ -1,17 +1,31 @@
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import classification_report
+from sklearn.metrics import (
+    accuracy_score,
+    classification_report
+)
 
 
-def evaluate(actual, predicted):
+
+def evaluate(actual, predicted, method_name="Model"):
+
+
+    accuracy = accuracy_score(
+        actual,
+        predicted
+    )
+
+
+    print("=" * 50)
+
+    print(method_name)
 
     print(
         "Accuracy:",
-        accuracy_score(
-            actual,
-            predicted
-        )
+        round(accuracy * 100, 2),
+        "%"
     )
 
+
+    print()
 
     print(
         classification_report(
@@ -20,3 +34,6 @@ def evaluate(actual, predicted):
             zero_division=0
         )
     )
+
+
+    return accuracy
