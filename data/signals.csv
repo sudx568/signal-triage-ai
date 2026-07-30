@@ -1,0 +1,101 @@
+id,text,ground_truth
+1,I was charged twice for my subscription.,billing
+2,My refund has not arrived.,billing
+3,Incorrect invoice amount.,billing
+4,Payment failed but money deducted.,billing
+5,Need help with billing.,billing
+6,Charged after cancellation.,billing
+7,Cannot update payment method.,billing
+8,Unexpected renewal fee.,billing
+9,Tax calculation seems wrong.,billing
+10,Duplicate transaction on my card.,billing
+11,Why was I billed today?,billing
+12,Refund status please.,billing
+13,Monthly charge looks incorrect.,billing
+14,Invoice PDF won't download.,billing
+15,Payment page keeps failing.,billing
+16,Need GST invoice.,billing
+17,Card declined incorrectly.,billing
+18,Charged for premium by mistake.,billing
+19,Billing history missing.,billing
+20,Please reverse this payment.,billing
+21,The app crashes on launch.,bug
+22,Login button does nothing.,bug
+23,Screen freezes after update.,bug
+24,Search feature is broken.,bug
+25,Notifications stopped working.,bug
+26,Unable to upload files.,bug
+27,Settings page is blank.,bug
+28,App is very slow.,bug
+29,Error 500 appears.,bug
+30,Images won't load.,bug
+31,Password reset fails.,bug
+32,Profile page crashes.,bug
+33,Export feature not working.,bug
+34,Dark mode flickers.,bug
+35,App logs me out randomly.,bug
+36,Can't save changes.,bug
+37,Sync keeps failing.,bug
+38,Audio doesn't play.,bug
+39,Map is not loading.,bug
+40,Camera feature crashes.,bug
+41,Please add dark mode.,feature_request
+42,Support multiple languages.,feature_request
+43,Need two-factor authentication.,feature_request
+44,Please add export to PDF.,feature_request
+45,Add keyboard shortcuts.,feature_request
+46,Offline mode would help.,feature_request
+47,Need calendar integration.,feature_request
+48,Please support voice input.,feature_request
+49,Add custom themes.,feature_request
+50,Wishlist feature please.,feature_request
+51,Allow bulk delete.,feature_request
+52,Need advanced filters.,feature_request
+53,Add auto save.,feature_request
+54,Support Apple login.,feature_request
+55,More notification controls.,feature_request
+56,Please add AI summaries.,feature_request
+57,Need dashboard widgets.,feature_request
+58,Add scheduled reports.,feature_request
+59,Support markdown.,feature_request
+60,Please add undo option.,feature_request
+61,Win a free iPhone now!,spam
+62,Click here to claim prize.,spam
+63,Earn money fast!!!,spam
+64,Limited offer buy now.,spam
+65,Cheap loans available.,spam
+66,Visit this suspicious link.,spam
+67,Congratulations you won.,spam
+68,Crypto investment guaranteed.,spam
+69,Free gift card waiting.,spam
+70,Exclusive bonus click now.,spam
+71,Hot deals today.,spam
+72,Make $5000 daily.,spam
+73,Get followers instantly.,spam
+74,Lowest prices guaranteed.,spam
+75,Claim reward immediately.,spam
+76,Lottery winner notification.,spam
+77,Act now don't miss.,spam
+78,Amazing weight loss trick.,spam
+79,Best casino bonus.,spam
+80,Work from home easy cash.,spam
+81,My account is locked and I need access immediately.,urgent_complaint
+82,This issue is blocking my business.,urgent_complaint
+83,Critical outage affecting all users.,urgent_complaint
+84,System deleted my important data.,urgent_complaint
+85,Need immediate support.,urgent_complaint
+86,Customer service is ignoring me.,urgent_complaint
+87,This is unacceptable fix it now.,urgent_complaint
+88,Production system is down.,urgent_complaint
+89,Security issue needs urgent attention.,urgent_complaint
+90,Cannot access my account.,urgent_complaint
+91,Data breach suspected.,urgent_complaint
+92,Payment stuck for hours.,urgent_complaint
+93,Your latest update broke everything.,urgent_complaint
+94,Need manager escalation.,urgent_complaint
+95,I may lose clients because of this.,urgent_complaint
+96,My order never arrived and I need it today.,urgent_complaint
+97,Application crashed during presentation.,urgent_complaint
+98,Urgent: invoices disappeared.,urgent_complaint
+99,Service unavailable since morning.,urgent_complaint
+100,Immediate resolution required.,urgent_complaint
